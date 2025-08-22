@@ -1,0 +1,36 @@
+body{ background-color: rgb(228, 182, 206);
+    width: fit-content; 
+    height: 100%; 
+    margin: auto; 
+   align-items: center;} 
+    
+h1{
+   align-items: center;
+   text-align: center;
+   margin-bottom: 8%;
+}
+.grupo-cards{ 
+   display: flex; } 
+.card{ 
+   background-color: white; 
+   width: 300px; 
+   border-radius: 5px; 
+   padding: 10px; 
+   margin-right: 2%; } 
+.card img{ 
+   width: 299px; 
+   border-radius: 5px; } 
+.container button{ 
+   background-color:  lightblue; 
+   padding: 10px 15px; 
+   border-radius: 5px; }
+
+.imagem{
+   border-radius: 10px;
+   margin: auto;
+   height: 250px;
+   width: fit-content;
+}
+div{
+   text-align: center;
+}
